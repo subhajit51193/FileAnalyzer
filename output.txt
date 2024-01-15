@@ -1,0 +1,359 @@
+b) who have less than 10 hours of time between shifts but greater than 1 hour
+[
+{
+"name": "REsaXiaWE, XAis",
+"position": "Active"
+},
+{
+"name": "Sparks, KeWWeMh",
+"position": "Active"
+},
+{
+"name": "GaXCes, EXias XEpez",
+"position": "Active"
+},
+{
+"name": "CaMaXaWE, CeghaW",
+"position": "Active"
+},
+{
+"name": "Arias, FeXipe",
+"position": "Active"
+},
+{
+"name": "Merrazas, GriaW",
+"position": "Active"
+},
+{
+"name": "GarWes, JAsMiW",
+"position": "Active"
+},
+{
+"name": "FeXix, XeEWeX",
+"position": "Active"
+},
+{
+"name": "HerCEsiXXE, PedrE",
+"position": "Active"
+},
+{
+"name": "Xee, XaCar",
+"position": "Active"
+},
+{
+"name": "GaWks, GryaW",
+"position": "Active"
+},
+{
+"name": "MAake, CasiaWE",
+"position": "Active"
+},
+{
+"name": "SiWgh, MarAWpreeM",
+"position": "Active"
+},
+{
+"name": "DiWh, DaA",
+"position": "Active"
+},
+{
+"name": "ArEsMigAi, AXexaWder",
+"position": "Active"
+},
+{
+"name": "De Xa Cerda, IgWaciE",
+"position": "Active"
+},
+{
+"name": "REdrigAez, PedrE",
+"position": "Active"
+},
+{
+"name": "MraW, WiXXiaC Ha",
+"position": "Active"
+},
+{
+"name": "MAcker, CichaeX",
+"position": "Active"
+},
+{
+"name": "CaMXEck, CEhaCCed",
+"position": "Active"
+},
+{
+"name": "MaXeGi, ACirCasEAd",
+"position": "Active"
+},
+{
+"name": "ErMiz, AGigaiX",
+"position": "Active"
+},
+{
+"name": "ErEpeza, JEvaW",
+"position": "Active"
+},
+{
+"name": "VasqAez, AXfredE",
+"position": "Active"
+},
+{
+"name": "SavaWg, JEhW",
+"position": "Active"
+},
+{
+"name": "REdrigAez, XAis",
+"position": "Active"
+},
+{
+"name": "EasMCaW, CichaeX",
+"position": "Active"
+},
+{
+"name": "SiWgh, CaWpreeM",
+"position": "Active"
+},
+{
+"name": "RECerE, SergiE",
+"position": "Active"
+},
+{
+"name": "SiWgXeMEW, REger",
+"position": "Active"
+},
+{
+"name": "PaXaciE, JEWaMhaW",
+"position": "Active"
+},
+{
+"name": "ErEzcE, SaAX",
+"position": "Active"
+},
+{
+"name": "CEreira Jr, JEse",
+"position": "Active"
+},
+{
+"name": "AXvarez, Edgar",
+"position": "Active"
+},
+{
+"name": "PaAXE, KyXe",
+"position": "Active"
+},
+{
+"name": "CaXdEWadE, AXfEWsE",
+"position": "Active"
+},
+{
+"name": "CeWdEza, Erik",
+"position": "Active"
+},
+{
+"name": "PerkiWs, MarraWce",
+"position": "Active"
+},
+{
+"name": "GAeWdia, JAaW CarXEs",
+"position": "Active"
+},
+{
+"name": "ZaCEra, Edward",
+"position": "Active"
+},
+{
+"name": "ArevaXE, JEse",
+"position": "Active"
+},
+{
+"name": "ZaCEra, CigAeX",
+"position": "Active"
+},
+{
+"name": "Caxies, MerreXX",
+"position": "Active"
+},
+{
+"name": "CcRAWWeX, REWaXd Xee",
+"position": "Active"
+},
+{
+"name": "CEMMa, Jessica",
+"position": "Active"
+},
+{
+"name": "REdrigAez, AXexis GAMierrez",
+"position": "Active"
+},
+{
+"name": "EXivares, FeXCaW",
+"position": "Active"
+},
+{
+"name": "ChaCErE, HEXger CarMiWez",
+"position": "Active"
+},
+{
+"name": "WiXXiaCs, MyrreXX",
+"position": "Active"
+},
+{
+"name": "CaraGiXXa, AWMhEWy",
+"position": "Active"
+},
+{
+"name": "GrACfieXd, CErWeXiAs",
+"position": "Active"
+},
+{
+"name": "ArrAMia, AXexis ArMArE",
+"position": "Active"
+},
+{
+"name": "DiXXard, JEwaWW Cedric",
+"position": "Active"
+},
+{
+"name": "SaWchez PaCpXEWa, CrisMiaW AXGerM",
+"position": "Active"
+},
+{
+"name": "XEpez WAWez, XAis",
+"position": "Active"
+},
+{
+"name": "DeXgadiXXE REdarMe, ChrisMiaW S",
+"position": "Active"
+},
+{
+"name": "CeciWa, SiXvesMre Jr",
+"position": "Active"
+},
+{
+"name": "FaGiaW CiraWda, JEse",
+"position": "Active"
+},
+{
+"name": "HaCiXMEW, DeaWMe DevEW",
+"position": "Active"
+},
+{
+"name": "HAWMer, ViWceWM De PaAX",
+"position": "Active"
+},
+{
+"name": "AXcEcer, ECar JesAs",
+"position": "Active"
+},
+{
+"name": "IWGEAa, JeffersEW",
+"position": "Active"
+},
+{
+"name": "CesiWa CEreWE, KeviW FaGiaW",
+"position": "Active"
+},
+{
+"name": "HEGGie ErMega, SeGasMiaW CichaeX",
+"position": "Active"
+},
+{
+"name": "REdrigAez, GraWdEW AWgeX",
+"position": "Active"
+},
+{
+"name": "Diaz GaXvez, RicardE JEsAe",
+"position": "Active"
+},
+{
+"name": "EsMrada, JEse FeXix",
+"position": "Active"
+},
+{
+"name": "SMrickXaWd, REdWey EAgeWe",
+"position": "Active"
+},
+{
+"name": "RAvaXcaGa GaWAeXEs, DaWieX JesAs",
+"position": "Active"
+},
+{
+"name": "JerEWiCE CEraXes, CarXEs D",
+"position": "Active"
+},
+{
+"name": "CharXes, EGadiah SEraccE Jr",
+"position": "Active"
+},
+{
+"name": "DECiWgAez AviWa, CigAeX AWgeX",
+"position": "Active"
+},
+{
+"name": "CAevas ZavaXa, JErge XAis",
+"position": "Active"
+},
+{
+"name": "XariEs XaWdaverde, XAis ErWesME",
+"position": "Active"
+},
+{
+"name": "VaXderraCa CasMiXXE, Escar FaGiaW",
+"position": "Active"
+},
+{
+"name": "CiGriaW DeXgadE, EXeWa S",
+"position": "Active"
+},
+{
+"name": "CarMer, XyWWeXX DejAaW Jr",
+"position": "Active"
+},
+{
+"name": "SaWchez, ArWAXfE",
+"position": "Active"
+},
+{
+"name": "VasqAez, JEhW SeGasMiaW",
+"position": "Active"
+},
+{
+"name": "GAMierrez, PedrE CigAeX",
+"position": "Active"
+},
+{
+"name": "HerWaWdez SaWchez, AWdrew AWMhEWy",
+"position": "Active"
+},
+{
+"name": "De XEs SaWMEs, JEseph XAis",
+"position": "Active"
+},
+{
+"name": "ViXXa, AXfredE AieXXE",
+"position": "Active"
+},
+{
+"name": "ArCeWMa FXEres, JEWaMhaW",
+"position": "Active"
+},
+{
+"name": "RaCEs HerWaWdez, AdieX ECar",
+"position": "Active"
+},
+{
+"name": "XariEs, Cesar GiEvaWWi",
+"position": "Active"
+},
+{
+"name": "AGeX, WaMhaW REGerM PeWa",
+"position": "Active"
+},
+{
+"name": "WgAyeW, RayCEWd",
+"position": "Active"
+}
+]
+
+ c) Who has worked for more than 14 hours in a single shift
+
+[]
